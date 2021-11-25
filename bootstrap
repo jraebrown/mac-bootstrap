@@ -44,11 +44,11 @@ else
   DEFAULT_HOST_NAME="$host"
 fi
 
-DEFAULT_BOOTSTRAP_VERSION="v5.1.5"
-DEFAULT_DOTFILES_BRANCH="master"
+DEFAULT_BOOTSTRAP_VERSION="main"
+DEFAULT_DOTFILES_BRANCH="main"
 DEFAULT_TIME_ZONE="America/Toronto"
-DEFAULT_NODEJS_VERSION="12.18.3"
-DEFAULT_RUBY_VERSION="2.7.1"
+DEFAULT_NODEJS_VERSION="17.1.0"
+DEFAULT_RUBY_VERSION="3.0.3"
 
 
 ################################################################################
@@ -330,7 +330,7 @@ echo "**********************************************************************"
 echo "****                                                              ****"
 echo "**** Mac Bootstrap script complete! Please restart your computer. ****"
 echo "****                                                              ****"
-echo "****                    https://jsua.co/macos                     ****"
+echo "****                    JRB Bootsraped.                           ****"
 echo "****                                                              ****"
 echo "**********************************************************************"
 echo "**********************************************************************"
